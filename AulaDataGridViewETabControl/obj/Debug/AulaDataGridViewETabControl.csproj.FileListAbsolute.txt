@@ -1,0 +1,10 @@
+C:\Users\Manager\Desktop\AulaDataGridViewETabControl\AulaDataGridViewETabControl\bin\Debug\AulaDataGridViewETabControl.exe.config
+C:\Users\Manager\Desktop\AulaDataGridViewETabControl\AulaDataGridViewETabControl\bin\Debug\AulaDataGridViewETabControl.exe
+C:\Users\Manager\Desktop\AulaDataGridViewETabControl\AulaDataGridViewETabControl\bin\Debug\AulaDataGridViewETabControl.pdb
+C:\Users\Manager\Desktop\AulaDataGridViewETabControl\AulaDataGridViewETabControl\obj\Debug\AulaDataGridViewETabControl.csproj.AssemblyReference.cache
+C:\Users\Manager\Desktop\AulaDataGridViewETabControl\AulaDataGridViewETabControl\obj\Debug\AulaDataGridViewETabControl.Form1.resources
+C:\Users\Manager\Desktop\AulaDataGridViewETabControl\AulaDataGridViewETabControl\obj\Debug\AulaDataGridViewETabControl.Properties.Resources.resources
+C:\Users\Manager\Desktop\AulaDataGridViewETabControl\AulaDataGridViewETabControl\obj\Debug\AulaDataGridViewETabControl.csproj.GenerateResource.cache
+C:\Users\Manager\Desktop\AulaDataGridViewETabControl\AulaDataGridViewETabControl\obj\Debug\AulaDataGridViewETabControl.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Desktop\AulaDataGridViewETabControl\AulaDataGridViewETabControl\obj\Debug\AulaDataGridViewETabControl.exe
+C:\Users\Manager\Desktop\AulaDataGridViewETabControl\AulaDataGridViewETabControl\obj\Debug\AulaDataGridViewETabControl.pdb
